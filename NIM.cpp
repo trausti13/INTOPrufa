@@ -35,6 +35,7 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
+		cout << "ALL YOUR BASER ARE BELONG TO US! (trausti13)" << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
